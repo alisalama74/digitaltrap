@@ -1,0 +1,1008 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 6020px;
+	background-color: rgba(0,0,0,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 668px;
+	height: 80px;
+	left: 626px;
+	top: 2867px;
+}
+#BAR {
+	opacity: 0.62;
+	position: absolute;
+	width: 1920px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#pexels-aaron-ulsh-2860705 {
+	position: absolute;
+	width: 1920px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#DIGITAL_TRAP {
+	left: 207px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: DIN Next LT Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(250,250,250,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 1665px;
+	height: 164px;
+	left: 51px;
+	top: 17px;
+	overflow: visible;
+}
+#service_ {
+	left: 1033px;
+	top: 81px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(250,250,250,1);
+	text-transform: uppercase;
+}
+#protfolio {
+	left: 1206px;
+	top: 81px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(250,250,250,1);
+	text-transform: uppercase;
+}
+#about_ {
+	left: 1403px;
+	top: 81px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(250,250,250,1);
+	text-transform: uppercase;
+}
+#clients {
+	left: 1567px;
+	top: 81px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(250,250,250,1);
+	text-transform: uppercase;
+}
+#CREATIVITY_TRAPPERS {
+	left: 182px;
+	top: 94px;
+	position: absolute;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: DIN Next LT Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(250,250,250,1);
+	letter-spacing: 1px;
+}
+#WHITE {
+	position: absolute;
+	width: 130px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#We_are_a_creative_team_special {
+	left: 1118px;
+	top: 540px;
+	position: absolute;
+	overflow: visible;
+	width: 613px;
+	height: 247px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#ABOUT_US {
+	left: 1118px;
+	top: 434px;
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#Circle_Button_ {
+	position: absolute;
+	width: 28.409px;
+	height: 28.409px;
+	left: 1408.045px;
+	top: 743px;
+	overflow: visible;
+}
+#METADATA {
+	display: none;
+	left: -19.886px;
+	top: -19.886px;
+	position: absolute;
+	overflow: hidden;
+	width: 15.205px;
+	height: 14.204547882080078px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Icon_ {
+	position: absolute;
+	width: 28.409px;
+	height: 28.409px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_w {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 15.205px;
+	height: 14.204547882080078px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_ICONfeathertwitterSIZEMED {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeathertwitterSIZEMED {
+	position: absolute;
+	overflow: visible;
+	width: 28.409px;
+	height: 28.409px;
+	left: 0px;
+	top: 0px;
+}
+#Icon {
+	position: absolute;
+	width: 26.043px;
+	height: 21.24px;
+	left: 1.183px;
+	top: 3.539px;
+	overflow: visible;
+}
+#Path {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(250,250,250,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path {
+	overflow: visible;
+	position: absolute;
+	width: 27.709px;
+	height: 23.134px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Circle_Button__ {
+	position: absolute;
+	width: 28.409px;
+	height: 28.409px;
+	left: 1328.5px;
+	top: 743px;
+	overflow: visible;
+}
+#METADATA_ {
+	display: none;
+	left: -19.886px;
+	top: -19.886px;
+	position: absolute;
+	overflow: hidden;
+	width: 15.205px;
+	height: 14.204547882080078px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Icon__ {
+	position: absolute;
+	width: 28.409px;
+	height: 28.409px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_ba {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 15.205px;
+	height: 14.204547882080078px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_ICONfeatherfacebookSIZEME {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherfacebookSIZEME {
+	position: absolute;
+	overflow: visible;
+	width: 28.409px;
+	height: 28.409px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_ba {
+	position: absolute;
+	width: 13.021px;
+	height: 23.673px;
+	left: 8.286px;
+	top: 2.368px;
+	overflow: visible;
+}
+#Path_ {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(250,250,250,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ {
+	overflow: visible;
+	position: absolute;
+	width: 14.688px;
+	height: 25.34px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Circle_Button__ba {
+	position: absolute;
+	width: 28.409px;
+	height: 28.409px;
+	left: 1487.591px;
+	top: 743px;
+	overflow: visible;
+}
+#METADATA_bb {
+	display: none;
+	left: -19.886px;
+	top: -19.886px;
+	position: absolute;
+	overflow: hidden;
+	width: 15.205px;
+	height: 14.204547882080078px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Icon__ba {
+	position: absolute;
+	width: 28.409px;
+	height: 28.409px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#METADATA_bc {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 15.205px;
+	height: 14.204547882080078px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_ICONfeatherlinkedinSIZEME {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherlinkedinSIZEME {
+	position: absolute;
+	overflow: visible;
+	width: 28.409px;
+	height: 28.409px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_bc {
+	position: absolute;
+	width: 23.674px;
+	height: 22.491px;
+	left: 2.367px;
+	top: 2.367px;
+	overflow: visible;
+}
+#Path_bd {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(250,250,250,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_bd {
+	overflow: visible;
+	position: absolute;
+	width: 15.871px;
+	height: 17.054px;
+	left: 9.469px;
+	top: 7.103px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rect {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(250,250,250,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rect {
+	position: absolute;
+	overflow: visible;
+	width: 6.402px;
+	height: 15.871px;
+	left: 0px;
+	top: 8.286px;
+}
+#Path_bf {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(250,250,250,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_bf {
+	position: absolute;
+	overflow: visible;
+	width: 6.402px;
+	height: 6.401px;
+	left: 0px;
+	top: 0px;
+}
+#our_services {
+	left: 332px;
+	top: 1329px;
+	position: absolute;
+	overflow: visible;
+	width: 1269px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 186px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#our_CLIENTS {
+	left: 395px;
+	top: 3067px;
+	position: absolute;
+	overflow: visible;
+	width: 1155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 186px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1829px;
+	height: 1190px;
+	left: 46px;
+	top: 1621px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 1829px;
+	height: 1190px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID7 {
+	position: absolute;
+	width: 594px;
+	height: 584px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID1 {
+	position: absolute;
+	width: 594px;
+	height: 584px;
+	left: 618px;
+	top: 0px;
+	overflow: visible;
+}
+#ID2 {
+	position: absolute;
+	width: 594px;
+	height: 584px;
+	left: 1235px;
+	top: 0px;
+	overflow: visible;
+}
+#ID3 {
+	position: absolute;
+	width: 594px;
+	height: 583px;
+	left: 0px;
+	top: 607px;
+	overflow: visible;
+}
+#ID4 {
+	position: absolute;
+	width: 594px;
+	height: 583px;
+	left: 618px;
+	top: 607px;
+	overflow: visible;
+}
+#ID5 {
+	position: absolute;
+	width: 594px;
+	height: 583px;
+	left: 1235px;
+	top: 607px;
+	overflow: visible;
+}
+#Copyright__2020_DIGITAL_TRAP_A {
+	left: 711px;
+	top: 5922px;
+	position: absolute;
+	overflow: hidden;
+	width: 499px;
+	height: 28px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(250,250,250,1);
+	letter-spacing: 1px;
+}
+#Group_3 {
+	position: absolute;
+	width: 774px;
+	height: 241px;
+	left: 83px;
+	top: 5563px;
+	overflow: visible;
+}
+#We_are_your_first_choice_in_th {
+	left: 7px;
+	top: 164px;
+	position: absolute;
+	overflow: hidden;
+	width: 768px;
+	height: 77px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(250,250,250,1);
+	letter-spacing: 1px;
+}
+#WHITE_bt {
+	position: absolute;
+	width: 124px;
+	height: 123px;
+	left: 419px;
+	top: 0px;
+	overflow: visible;
+}
+#DIGITAL_TRAP_bu {
+	left: 0px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 53px;
+	color: rgba(250,250,250,1);
+	letter-spacing: 1px;
+}
+#Group_4 {
+	position: absolute;
+	width: 1177px;
+	height: 1233px;
+	left: 372px;
+	top: 4122px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1120px;
+	height: 998px;
+	left: 0px;
+	top: 235px;
+}
+#LETS_TALK_FOR_YOUR_NEXT_PROJEC {
+	left: 189px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 989px;
+	height: 193px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#CONTACT_US {
+	left: 371px;
+	top: 542px;
+	position: absolute;
+	overflow: visible;
+	width: 464px;
+	height: 90px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#CAIROEGYPT {
+	left: 347px;
+	top: 698px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#ID20100_3704211 {
+	left: 347px;
+	top: 825px;
+	position: absolute;
+	overflow: visible;
+	width: 464px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 51px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#infodigitaltrapco {
+	left: 347px;
+	top: 952px;
+	position: absolute;
+	overflow: visible;
+	width: 511px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Icon__b {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 235px;
+	top: 703px;
+	overflow: visible;
+}
+#METADATA_b {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 26px;
+	height: 25px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_ICONfeathermap-pinSIZELAR {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_ICONfeathermap-pinSIZELAR {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_b {
+	position: absolute;
+	width: 45.825px;
+	height: 56.008px;
+	left: 7.41px;
+	top: 2.361px;
+	overflow: visible;
+}
+#Path_b {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_b {
+	overflow: visible;
+	position: absolute;
+	width: 50.825px;
+	height: 61.008px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_ca {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ca {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 15.59px;
+	top: 15.639px;
+}
+#Icon__ca {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 235px;
+	top: 825px;
+	overflow: visible;
+}
+#METADATA_ca {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 26px;
+	height: 25px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Area_ICONfeatherphoneSIZELARGE {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatherphoneSIZELARGE {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_cb {
+	position: absolute;
+	width: 50.633px;
+	height: 50.734px;
+	left: 5.149px;
+	top: 5.105px;
+	overflow: visible;
+}
+#Path_cc {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_cc {
+	overflow: visible;
+	position: absolute;
+	width: 55.636px;
+	height: 55.739px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#email {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 60.48px;
+	height: 43.279px;
+	left: 237.318px;
+	top: 962.488px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 60.48px;
+	height: 43.279px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_36 {
+	fill: rgba(0,0,0,1);
+}
+.Path_36 {
+	overflow: visible;
+	position: absolute;
+	width: 60.48px;
+	height: 43.279px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_5 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 863px;
+	height: 815px;
+	left: 133px;
+	top: 321px;
+}
+#WHITE_ch {
+	position: absolute;
+	width: 723px;
+	height: 1407px;
+	left: 1286px;
+	top: 5473px;
+	overflow: visible;
+}
+#BOOK_YOUR_SERVICE_NOW {
+	left: 652px;
+	top: 2882px;
+	position: absolute;
+	overflow: visible;
+	width: 617px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Repeat_Grid_2 {
+	position: absolute;
+	width: 1330px;
+	height: 307px;
+	left: 451px;
+	top: 3387px;
+	overflow: hidden;
+}
+#Repeat_Grid_2_0 {
+	position: absolute;
+	width: 989px;
+	height: 307px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID1_cl {
+	position: absolute;
+	width: 307px;
+	height: 307px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Untitled-1 {
+	position: absolute;
+	width: 307px;
+	height: 307px;
+	left: 682px;
+	top: 0px;
+	overflow: visible;
+}
+#ID1_cn {
+	position: absolute;
+	width: 307px;
+	height: 307px;
+	left: 341px;
+	top: 0px;
+	overflow: visible;
+}
+#Repeat_Grid_3 {
+	position: absolute;
+	width: 1330px;
+	height: 307px;
+	left: 451px;
+	top: 3750px;
+	overflow: hidden;
+}
+#Repeat_Grid_3_0 {
+	position: absolute;
+	width: 989px;
+	height: 307px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#profile {
+	position: absolute;
+	width: 307px;
+	height: 307px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID1_cr {
+	position: absolute;
+	width: 307px;
+	height: 307px;
+	left: 682px;
+	top: 0px;
+	overflow: visible;
+}
+#ID1_cs {
+	position: absolute;
+	width: 307px;
+	height: 307px;
+	left: 341px;
+	top: 0px;
+	overflow: visible;
+}
